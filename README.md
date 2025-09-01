@@ -1,29 +1,42 @@
-# Healthcare Insurance deApp: A Secure and Scalable Solution
+# 🏥 Healthcare Insurance dApp – Hackathon Project
 
-This repository houses the codebase for a novel healthcare insurance deApp built using a synergistic blend of technologies. Our team is dedicated to revolutionizing the healthcare insurance industry by leveraging the power of blockchain technology.
+A prototype **decentralised application (dApp)** for healthcare insurance, built during a hackathon to explore blockchain solutions for secure and scalable policy management.  
 
-## Tech Stack
+---
 
-Front-End: ReactJS, Tailwind CSS
-Back-End: NodeJS
-Smart Contract Development:
-Framework: PolkaDot
-Deployment: Moonbeam (with potential for future parachain integration)
-NFT Standard: ERC-721
-## Core Functionality
+## 🔧 Tech Stack
+- **Frontend:** React.js, TailwindCSS  
+- **Backend:** Node.js  
+- **Smart Contracts:** Polkadot framework  
+- **Deployment:** Moonbeam (with potential for future parachain integration)  
+- **NFT Standard:** ERC-721  
 
-This deApp offers a user-friendly platform for healthcare insurance management, facilitating secure and efficient transactions. Here's a glimpse into what it can achieve:
+---
 
-Policy Management: Users can register, manage, and view their healthcare insurance policies represented as NFTs.
-Enhanced Security: Inherits robust security from the Polkadot network through Moonbeam's shared security model.
-Scalability: PolkaDot's parachain architecture allows for horizontal scaling to accommodate future growth.
-Interoperability: Future-proofed for potential integration with other parachains within the Polkadot ecosystem.
-Potential for Secondary Markets (Subject to Regulations): NFTs provide the foundation for exploring secondary markets for healthcare insurance policies, streamlining potential transfers.
-## Why PolkaDot and Moonbeam?
+## ✨ Features
+- 📑 **Policy Management** – Users can register, manage, and view insurance policies represented as NFTs  
+- 🔐 **Enhanced Security** – Inherits robust security from the Polkadot network  
+- ⚡ **Scalability** – Built on parachain architecture to handle future growth  
+- 🔗 **Interoperability** – Future-proofed for integration with other parachains  
+- 💱 **Potential Secondary Market** – Lays groundwork for regulated transfers of insurance policies as NFTs  
 
-We carefully selected PolkaDot and Moonbeam as the foundation for this deApp for their unique advantages:
+---
 
-Shared Security: Inherits the robust security of the Polkadot network, ensuring the safety of sensitive healthcare data.
-Scalability: PolkaDot's parachain architecture empowers horizontal scaling to accommodate increased demand.
-Interoperability: Future-proofs the deApp for potential integration with other blockchain applications within the Polkadot ecosystem.
-Faster Development: Moonbeam's EVM compatibility streamlines development for developers familiar with Solidity and Ethereum tools.
+## 🌐 Why Polkadot & Moonbeam?
+- **Shared Security** – Leverages Polkadot’s robust network security  
+- **Scalability** – Parachain design allows horizontal scaling for growth  
+- **Interoperability** – Compatible with other blockchain ecosystems  
+- **Developer Friendly** – Moonbeam’s EVM compatibility speeds up Solidity-based development  
+
+---
+
+## 📸 Screenshots
+(Add screenshots of your dApp interface here)  
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the repo
+```bash
+git clone https://github.com/your-username/hackathon-blockchain-project.git
