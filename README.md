@@ -31,7 +31,8 @@ A prototype **decentralised application (dApp)** for healthcare insurance, built
 ---
 
 ## 📸 Screenshots
-<img width="2630" height="4498" alt="image" src="https://github.com/user-attachments/assets/c6966704-dc91-4c5a-9262-4afe0b80058d" />
+<img width="1921" height="1262" alt="image" src="https://github.com/user-attachments/assets/3407c755-8f72-4057-861d-0ccc1759288a" />
+
 
 ---
 
